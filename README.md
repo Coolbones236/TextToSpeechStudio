@@ -14,6 +14,10 @@ A sleek, modern desktop application designed for generating, previewing, and man
 
 ---
 
+## Visual Preview
+
+---
+
 ## 📥 Download & Installation
 
 1. Go to the **[Releases](https://github.com/Coolbones236/TextToSpeechStudio/releases)** section on the right side of this page.

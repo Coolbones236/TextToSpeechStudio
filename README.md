@@ -14,7 +14,13 @@ A sleek, modern desktop application designed for generating, previewing, and man
 
 ---
 
-## Visual Preview
+## 🖼️  Visual Preview
+
+<img width="1198" height="833" alt="Screenshot 2026-07-29 194027" src="https://github.com/user-attachments/assets/e3561d4c-18c2-471f-8fae-1096a35a06e5" />
+
+<img width="1208" height="844" alt="Screenshot 2026-07-29 194019" src="https://github.com/user-attachments/assets/1a480b9e-40c2-4eb2-9b02-2571dbe0a3f0" />
+
+<img width="1197" height="840" alt="Screenshot 2026-07-29 194008" src="https://github.com/user-attachments/assets/a86c77ff-769d-4f11-b2ea-474d23fef541" />
 
 ---
 

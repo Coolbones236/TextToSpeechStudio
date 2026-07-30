@@ -44,4 +44,4 @@ A sleek, modern desktop application designed for generating, previewing, and man
 
 ## 📄 License & Terms
 
-Text To Speech Studio is distributed under custom terms allowing free personal use while restricting modification and redistribution. See the full [LICENSE](LICENSE) file for details.
+Text To Speech Studio is distributed under custom terms allowing free personal use while restricting modification and redistribution. See the full [LICENSE](LICENSE.md) file for details.
